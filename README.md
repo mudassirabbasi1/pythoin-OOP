@@ -1,15 +1,28 @@
-# Python OOP Project
+# Bank Account OOP Demo
 
-This repository contains a Python project demonstrating Object-Oriented Programming (OOP) concepts.
+A small Python project demonstrating object-oriented programming through a bank account domain model.
 
-## Features
+## Concepts Covered
 
-- Implementation of a `BankAccount` class with methods for depositing, withdrawing, and checking balance.
+- Class design and object instantiation.
+- Instance methods for deposit, withdrawal, and balance checks.
+- Encapsulation of account state.
 - Custom exception handling for insufficient funds.
-- Clear and modular code structure.
+- Simple command-line testing through Python scripts.
 
-## Usage
+## Project Files
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mudassirabbasi1/pythoin-OOP.git
+- `bank_account.py` - account class and related business logic.
+- `oop_project.py` - example usage and execution entry point.
+
+## Run Locally
+
+```bash
+git clone https://github.com/mudassirabbasi1/pythoin-OOP.git
+cd pythoin-OOP
+python oop_project.py
+```
+
+## Repository Note
+
+The repository name contains a typo, but the project itself is documented here as a focused Python OOP demonstration.
